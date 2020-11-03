@@ -3,3 +3,5 @@ zmiana04
 oraz
 zmiana3
 prostaWersja
+zmianax
+testy
