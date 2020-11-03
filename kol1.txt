@@ -4,3 +4,4 @@ oraz
 zmiana3
 prostaWersja
 zmiana8
+zmiana09
